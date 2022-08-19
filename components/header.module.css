@@ -1,0 +1,23 @@
+.nav {
+  width: 90vw;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.nav ul {
+  list-style: none;
+  display: inline-flex;
+}
+.nav li {
+  padding-right: 15px;
+}
+a.nav_link_styles {
+  color: #3d6ade;
+}
+a.nav_link_styles:link {
+  color: #3d6ade;
+}
+a.nav_link_styles:hover {
+  color: #112559;
+}
