@@ -12,7 +12,7 @@ export default function HeroHome() {
           I believe that great design should not be out of reach, so my services
           are less than half the price of a digital design Agency.
         </p>
-        <div className={styles.hero_btn_container}>Let's Talk</div>
+        {/* <div className={styles.hero_btn_container}>Let's Talk</div> */}
       </div>
       <div className={styles.hero_img_container}></div>
     </div>

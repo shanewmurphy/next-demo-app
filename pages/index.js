@@ -2,8 +2,8 @@ import Head from "next/head";
 import Image from "next/image";
 import styles from "../styles/Home.module.css";
 import Header from "/components/Header";
-import Hero from "components/Hero";
-import Skills from "@components/Skills";
+import Hero from "/components/Hero";
+import Skills from "/components/Skills";
 export default function Home() {
   return (
     <div className={styles.container}>
