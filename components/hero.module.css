@@ -17,13 +17,15 @@
   font-size: 48px;
   font-weight: 700;
   margin: 0;
-  /* max-width: 800px; */
+  margin-bottom: var(--margin-h1-spacing-btm);
+  line-height: var(--line-height-h1);
 }
 .hero_content_container p {
-  font-size: 18px;
+  font-size: 22px;
   font-weight: 500;
   color: #595d73;
-  line-height: 30px;
+  line-height: var(--paragraph--line-height);
+  margin: var(--paragraph--margins--);
   padding-right: 50px;
 }
 .hero_img_container {
@@ -35,14 +37,17 @@
 .hero_btn_container {
   margin-top: 40px;
 }
-.hero_btn_container button {
-  width: 240px;
-  height: 55px;
+.hero_btn_container {
+  display: flex;
+  width: 260px;
+  height: 65px;
   background-color: #484b5a;
   border: none;
-  border-radius: 24px;
+  border-radius: 28px;
   color: white;
   font-size: 24px;
   font-weight: 400;
   cursor: pointer;
+  align-items: center;
+  justify-content: center;
 }

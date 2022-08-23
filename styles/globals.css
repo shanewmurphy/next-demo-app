@@ -7,7 +7,18 @@ body {
   padding: 0;
   margin: 0;
 }
+:root {
+  /*-----------H1 styles--------*/
+  --margin-h1-spacing-top: 32px;
+  --margin-h1-spacing-btm: 24px;
+  --line-height-h1: 64px;
 
+  /*------Paragraph Styles------*/
+  --paragraph--fnt-size: 18px;
+  --paragraph--line-height: 32px;
+  --paragraph--margins: 16px 0 24px 0;
+  --paragraph--font-weight: 400;
+}
 a {
   color: inherit;
   text-decoration: none;

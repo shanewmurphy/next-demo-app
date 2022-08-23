@@ -80,9 +80,20 @@
   color: #656a81;
   background-color: rgb(210, 222, 239);
   padding: 15px;
-  max-width: 70vw;
+  max-width: 80vw;
   margin: 0;
   border-radius: 6px;
+  font-size: 20px;
+  line-height: 32px;
+  margin-bottom: 15px;
+  margin-top: 25px;
+}
+.rich_text_editor_container ol {
+  color: #656a81;
+  margin-bottom: 12px;
+}
+.rich_text_editor_container li {
+  padding-bottom: 5px;
 }
 /* .rich_text_editor_container img {
   width: 70%;
