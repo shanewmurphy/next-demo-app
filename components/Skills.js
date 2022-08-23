@@ -17,6 +17,7 @@ export default function SkillsSection() {
               <li>Design System</li>
               <li>Wireframing</li>
               <li>Prototype</li>
+              <li></li>
             </ul>
           </div>
           <div>
@@ -27,6 +28,7 @@ export default function SkillsSection() {
               <li>Shopify</li>
               <li>Next JS</li>
               <li>E-commerce</li>
+              <li></li>
             </ul>
           </div>
         </div>

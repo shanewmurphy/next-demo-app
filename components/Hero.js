@@ -6,7 +6,7 @@ export default function HeroHome() {
       <div className={styles.hero_content_container}>
         <h1>
           Designing, building digital products, helping brands have a delightful
-          online experience
+          online experience.
         </h1>
         <p>
           I believe that great design should not be out of reach, so my services
